@@ -1,7 +1,7 @@
 <h2>Genetic algorithms, evolutionarily stable strategies, and the loser/winner
 effects</h2>
 
-<p>(A long time ago, around 2000) I spent some time working on the
+<p>(A long time ago, around the year 2000) I spent some time working on the
 loser/winner effects. This is a problem that requires game theory (what is
 a good strategy depends on what your opponents do) but I could not find
 simple analytical solutions. So I used genetic algorithms, which seems
