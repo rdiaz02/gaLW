@@ -28,7 +28,7 @@ you use this code, you let me know. </p>
 href="http://www.oonumerics.org/blitz/">Blitz++</a> and
 <b>libRmath</b>, the stand-alone math library from <a
 href="http://www.r-project.org">R</a>. If you use <a
-href="http://www.debian.org">Debian GNU/Linux</a>, this is as easy as:</p>
+href="http://www.debian.org">Debian GNU/Linux</a>, this is (was) as easy as:</p>
 <pre>
 apt-get install blitz
 apt-get install r-mathlib
